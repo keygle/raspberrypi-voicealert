@@ -577,7 +577,7 @@ download the executable.-->
 			<FIELD type='1' description='Cost' value='0.52' show='0' pos='-26.00000,42.80000'/>
 		</SYMBOL>
 		<SYMBOL id='1' pos='118.00000,100.00000' part='0' rotate='3' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
-			<FIELD type='1' description='Ref' value='N3' show='0' pos='-26.00000,2.00000'/>
+			<FIELD type='1' description='Ref' value='N3' show='1' pos='-26.00000,2.00000'/>
 			<FIELD type='0' description='Name' value='4N25' show='1' pos='-26.00000,-20.00000'/>
 			<FIELD type='1' description='Package' value='DIP6' show='0' pos='-26.00000,4.40000'/>
 			<FIELD type='1' description='Usage' value='General purpose opto-isolator' show='0' pos='-26.00000,6.80000'/>
